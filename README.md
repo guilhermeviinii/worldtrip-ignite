@@ -4,7 +4,7 @@
 Esse site foi desenvolvido com NextJs + Chakra UI - focado totalmente na responsividade para todos os tipos de resolução
 </p>
 
-<h2"> DESKTOP </h2>
+<h2> DESKTOP </h2>
 <img src="./public/desktop.png" >
 
 <h2> MOBILE <h2>
